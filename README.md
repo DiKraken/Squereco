@@ -1,0 +1,2 @@
+# Squereco
+Game project (test)
